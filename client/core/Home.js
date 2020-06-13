@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import {withStyles} from 'material-ui/styles'
 import Card, {CardContent, CardMedia} from 'material-ui/Card'
 import Typography from 'material-ui/Typography'
-import Wall from './../assets/images/wall.jpg'
+import Wall from './../assets/images/wall1.jpg'
 
 const styles = theme => ({
   card: {
