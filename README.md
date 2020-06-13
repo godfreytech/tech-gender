@@ -1,7 +1,7 @@
 # MERN TechGender
 
 ---
-An application with basic user CRUD and auth features - developed using React, Node, Express and MongoDB.This application is used to register girls in Technology by inputting their name,e-mail address and many others. 
+An application with basic user CRUD and auth features - developed using React, Node, Express and MongoDB.This application is used to register girls in technology by inputting their name,e-mail address and many others. 
 
 #### What you need to run this code
 1. Node (8.11.1)
